@@ -1,0 +1,23 @@
+table,
+th,
+td {
+  margin: 5px;
+  padding: 5px;
+  border: 1px solid;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+button {
+  padding: 0;
+  border: solid 1px;
+  background: none;
+  margin: 5px;
+  padding: 2px;
+}
+button:hover {
+  cursor: pointer;
+  background-color: red;
+}
